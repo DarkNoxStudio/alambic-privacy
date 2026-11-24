@@ -1,12 +1,12 @@
-# Privacy Policy – Alambic
+# Privacy Policy – Alembic
 
 *Last updated: November 24, 2026*
 
-This policy explains what data is processed when you play **Alambic**, a mobile game published by **DarkNox Studio** ("we", "us").
+This policy explains what data is processed when you play **Alembic**, a mobile game published by **DarkNox Studio** ("we", "us").
 
 ## 1. Data we do not collect
 
-Alambic does not require an account and never asks for your name, email address or phone number. We do not operate any game server: we do not receive or store any personal data about you.
+Alembic does not require an account and never asks for your name, email address or phone number. We do not operate any game server: we do not receive or store any personal data about you.
 
 ## 2. Data stored on your device
 
@@ -35,7 +35,7 @@ Google privacy policy: <https://policies.google.com/privacy>
 
 ## 5. Children
 
-Alambic is not directed to children under 13, and we do not knowingly collect any data from them.
+Alembic is not directed to children under 13, and we do not knowingly collect any data from them.
 
 ## 6. Your rights
 
